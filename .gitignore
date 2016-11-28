@@ -1,0 +1,7 @@
+/target/
+/build/
+.DS_Store
+.settings
+.project
+.classpath
+tm.out

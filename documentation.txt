@@ -1,0 +1,15 @@
+Qui ho usato Atomikos per gestire la transazione di operazioni 
+effettuate semplicemente via JDBC.
+
+Tramite la UserTransactionImp di Atomikos si avvia la transazione 
+e la si committa o rollbacka.
+
+Le operazioni effettuate sulle connessioni prese dal AtomikosDataSourceBean
+vengono associate alla transazione eventualmente legata al thread dalla usertransaction.
+
+L'AtomikosDataSourceBean contiene quindi le properties per connettersi ad un db
+tramite un driver XA.
+(sulla ProvaNonXA Atomikos stesso dice che in realtà non è garantita - nella mia prova ha funzionato - 
+l'atomicità a meno che non ci sia un solo datasource nella transazione, 
+quindi è utile solo se voglio far gestire la transazione ad Atomikos di operazioni fatte 
+su un unico db di cui non ho il driver XA)

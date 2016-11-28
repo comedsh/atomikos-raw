@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakpoints>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="5653" lineNumber="142" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:AtomikosConnectionProxy [line: 142] - invoke(Object, Method, Object[])"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions-jdbc\/3.8.0\/transactions-jdbc-3.8.0.jar&lt;com.atomikos.jdbc(AtomikosConnectionProxy.class[AtomikosConnectionProxy"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="5653"/>
+<attrib name="charEnd" value="5685"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions-jdbc\/3.8.0\/transactions-jdbc-3.8.0.jar&lt;com.atomikos.jdbc(AtomikosConnectionProxy.class"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.atomikos.jdbc.AtomikosConnectionProxy"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="6967" lineNumber="200" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:AtomikosDataSourceBean [line: 200] - doInit()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions-jdbc\/3.8.0\/transactions-jdbc-3.8.0.jar&lt;com.atomikos.jdbc(AtomikosDataSourceBean.class[AtomikosDataSourceBean"/>
+<attrib name="charStart" value="6967"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charEnd" value="7003"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions-jdbc\/3.8.0\/transactions-jdbc-3.8.0.jar&lt;com.atomikos.jdbc(AtomikosDataSourceBean.class"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.atomikos.jdbc.AtomikosDataSourceBean"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="2156" lineNumber="56" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:BranchEnlistedStateHandler [line: 56] - BranchEnlistedStateHandler(XATransactionalResource, CompositeTransaction, XAResource, HeuristicMessage)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions-jta\/3.8.0\/transactions-jta-3.8.0.jar&lt;com.atomikos.datasource.xa.session(BranchEnlistedStateHandler.class[BranchEnlistedStateHandler"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="2156"/>
+<attrib name="charEnd" value="2237"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions-jta\/3.8.0\/transactions-jta-3.8.0.jar&lt;com.atomikos.datasource.xa.session(BranchEnlistedStateHandler.class"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.atomikos.datasource.xa.session.BranchEnlistedStateHandler"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="2339" lineNumber="59" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:BranchEnlistedStateHandler [line: 59] - BranchEnlistedStateHandler(XATransactionalResource, CompositeTransaction, XAResource, HeuristicMessage)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions-jta\/3.8.0\/transactions-jta-3.8.0.jar&lt;com.atomikos.datasource.xa.session(BranchEnlistedStateHandler.class[BranchEnlistedStateHandler"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="2339"/>
+<attrib name="charEnd" value="2357"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions-jta\/3.8.0\/transactions-jta-3.8.0.jar&lt;com.atomikos.datasource.xa.session(BranchEnlistedStateHandler.class"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.atomikos.datasource.xa.session.BranchEnlistedStateHandler"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="6228" lineNumber="198" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:CompositeTransactionImp [line: 198] - addParticipant(Participant)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions\/3.8.0\/transactions-3.8.0.jar&lt;com.atomikos.icatch.imp(CompositeTransactionImp.class[CompositeTransactionImp"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="6228"/>
+<attrib name="charEnd" value="6327"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions\/3.8.0\/transactions-3.8.0.jar&lt;com.atomikos.icatch.imp(CompositeTransactionImp.class"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.atomikos.icatch.imp.CompositeTransactionImp"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="13994" lineNumber="451" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:Configuration [line: 451] - getResource(String)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions\/3.8.0\/transactions-3.8.0.jar&lt;com.atomikos.icatch.system(Configuration.class[Configuration"/>
+<attrib name="charStart" value="13994"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charEnd" value="14033"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions\/3.8.0\/transactions-3.8.0.jar&lt;com.atomikos.icatch.system(Configuration.class"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.atomikos.icatch.system.Configuration"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="14466" lineNumber="466" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:Configuration [line: 466] - getResources()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions\/3.8.0\/transactions-3.8.0.jar&lt;com.atomikos.icatch.system(Configuration.class[Configuration"/>
+<attrib name="charStart" value="14466"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charEnd" value="14519"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions\/3.8.0\/transactions-3.8.0.jar&lt;com.atomikos.icatch.system(Configuration.class"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.atomikos.icatch.system.Configuration"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="14590" lineNumber="500" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:CoordinatorImp [line: 500] - addParticipant(Participant)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions\/3.8.0\/transactions-3.8.0.jar&lt;com.atomikos.icatch.imp(CoordinatorImp.class[CoordinatorImp"/>
+<attrib name="charStart" value="14590"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charEnd" value="14618"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions\/3.8.0\/transactions-3.8.0.jar&lt;com.atomikos.icatch.imp(CoordinatorImp.class"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.atomikos.icatch.imp.CoordinatorImp"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="28041" lineNumber="929" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:CoordinatorImp [line: 929] - alarm(AlarmTimer)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions\/3.8.0\/transactions-3.8.0.jar&lt;com.atomikos.icatch.imp(CoordinatorImp.class[CoordinatorImp"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="28041"/>
+<attrib name="charEnd" value="28080"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions\/3.8.0\/transactions-3.8.0.jar&lt;com.atomikos.icatch.imp(CoordinatorImp.class"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.atomikos.icatch.imp.CoordinatorImp"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="9557" lineNumber="255" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:MysqlXAConnection [line: 255] - recover(int)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/mysql\/mysql-connector-java\/5.1.31\/mysql-connector-java-5.1.31.jar&lt;com.mysql.jdbc.jdbc2.optional(MysqlXAConnection.class[MysqlXAConnection"/>
+<attrib name="charStart" value="9557"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charEnd" value="9607"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/mysql\/mysql-connector-java\/5.1.31\/mysql-connector-java-5.1.31.jar&lt;com.mysql.jdbc.jdbc2.optional(MysqlXAConnection.class"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.mysql.jdbc.jdbc2.optional.MysqlXAConnection"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="10736" lineNumber="279" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:MysqlXAConnection [line: 279] - recover(Connection, int)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/mysql\/mysql-connector-java\/5.1.31\/mysql-connector-java-5.1.31.jar&lt;com.mysql.jdbc.jdbc2.optional(MysqlXAConnection.class[MysqlXAConnection"/>
+<attrib name="charStart" value="10736"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charEnd" value="10787"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/mysql\/mysql-connector-java\/5.1.31\/mysql-connector-java-5.1.31.jar&lt;com.mysql.jdbc.jdbc2.optional(MysqlXAConnection.class"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.mysql.jdbc.jdbc2.optional.MysqlXAConnection"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="13632" lineNumber="385" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:MysqlXAConnection [line: 385] - prepare(Xid)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/mysql\/mysql-connector-java\/5.1.31\/mysql-connector-java-5.1.31.jar&lt;com.mysql.jdbc.jdbc2.optional(MysqlXAConnection.class[MysqlXAConnection"/>
+<attrib name="charStart" value="13632"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charEnd" value="13699"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/mysql\/mysql-connector-java\/5.1.31\/mysql-connector-java-5.1.31.jar&lt;com.mysql.jdbc.jdbc2.optional(MysqlXAConnection.class"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.mysql.jdbc.jdbc2.optional.MysqlXAConnection"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="16411" lineNumber="466" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:MysqlXAConnection [line: 466] - end(Xid, int)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/mysql\/mysql-connector-java\/5.1.31\/mysql-connector-java-5.1.31.jar&lt;com.mysql.jdbc.jdbc2.optional(MysqlXAConnection.class[MysqlXAConnection"/>
+<attrib name="charStart" value="16411"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charEnd" value="16478"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/mysql\/mysql-connector-java\/5.1.31\/mysql-connector-java-5.1.31.jar&lt;com.mysql.jdbc.jdbc2.optional(MysqlXAConnection.class"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.mysql.jdbc.jdbc2.optional.MysqlXAConnection"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="17822" lineNumber="509" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:MysqlXAConnection [line: 509] - start(Xid, int)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/mysql\/mysql-connector-java\/5.1.31\/mysql-connector-java-5.1.31.jar&lt;com.mysql.jdbc.jdbc2.optional(MysqlXAConnection.class[MysqlXAConnection"/>
+<attrib name="charStart" value="17822"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charEnd" value="17889"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/mysql\/mysql-connector-java\/5.1.31\/mysql-connector-java-5.1.31.jar&lt;com.mysql.jdbc.jdbc2.optional(MysqlXAConnection.class"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.mysql.jdbc.jdbc2.optional.MysqlXAConnection"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="19188" lineNumber="554" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:MysqlXAConnection [line: 554] - commit(Xid, boolean)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/mysql\/mysql-connector-java\/5.1.31\/mysql-connector-java-5.1.31.jar&lt;com.mysql.jdbc.jdbc2.optional(MysqlXAConnection.class[MysqlXAConnection"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="19188"/>
+<attrib name="charEnd" value="19255"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/mysql\/mysql-connector-java\/5.1.31\/mysql-connector-java-5.1.31.jar&lt;com.mysql.jdbc.jdbc2.optional(MysqlXAConnection.class"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.mysql.jdbc.jdbc2.optional.MysqlXAConnection"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/bmt.atomikos/src/main/java/mio/bmt/atomikos/ProvaXA.java" type="1"/>
+<marker charStart="2064" lineNumber="75" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:ProvaXA [line: 75] - main(String[])"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/src\/main\/java&lt;mio.bmt.atomikos{ProvaXA.java[ProvaXA"/>
+<attrib name="charStart" value="2064"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charEnd" value="2077"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="mio.bmt.atomikos.ProvaXA"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/bmt.atomikos/src/main/java/mio/bmt/atomikos/ProvaXA.java" type="1"/>
+<marker charStart="2171" lineNumber="80" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:ProvaXA [line: 80] - main(String[])"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/src\/main\/java&lt;mio.bmt.atomikos{ProvaXA.java[ProvaXA"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="2171"/>
+<attrib name="charEnd" value="2273"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="mio.bmt.atomikos.ProvaXA"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/bmt.atomikos/src/main/java/mio/bmt/atomikos/ProvaXA.java" type="1"/>
+<marker charStart="2364" lineNumber="85" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:ProvaXA [line: 85] - main(String[])"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/src\/main\/java&lt;mio.bmt.atomikos{ProvaXA.java[ProvaXA"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="2364"/>
+<attrib name="charEnd" value="2467"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="mio.bmt.atomikos.ProvaXA"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/bmt.atomikos/src/main/java/mio/bmt/atomikos/ProvaXA.java" type="1"/>
+<marker charStart="2802" lineNumber="99" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:ProvaXA [line: 99] - main(String[])"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/src\/main\/java&lt;mio.bmt.atomikos{ProvaXA.java[ProvaXA"/>
+<attrib name="charStart" value="2802"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charEnd" value="2816"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="mio.bmt.atomikos.ProvaXA"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="2278" lineNumber="66" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:SiblingMapper [line: 66] [conditional] - map(CompositeTransaction)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.core.conditionEnabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions-jta\/3.8.0\/transactions-jta-3.8.0.jar&lt;com.atomikos.datasource.xa(SiblingMapper.class[SiblingMapper"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="2278"/>
+<attrib name="charEnd" value="2334"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions-jta\/3.8.0\/transactions-jta-3.8.0.jar&lt;com.atomikos.datasource.xa(SiblingMapper.class"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.jdt.debug.core.condition" value="last == null"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.atomikos.datasource.xa.SiblingMapper"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="3372" lineNumber="86" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:SiblingMapper [line: 86] - map(CompositeTransaction)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions-jta\/3.8.0\/transactions-jta-3.8.0.jar&lt;com.atomikos.datasource.xa(SiblingMapper.class[SiblingMapper"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="3372"/>
+<attrib name="charEnd" value="3446"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions-jta\/3.8.0\/transactions-jta-3.8.0.jar&lt;com.atomikos.datasource.xa(SiblingMapper.class"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.atomikos.datasource.xa.SiblingMapper"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="3804" lineNumber="101" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:SiblingMapper [line: 101] - map(CompositeTransaction)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions-jta\/3.8.0\/transactions-jta-3.8.0.jar&lt;com.atomikos.datasource.xa(SiblingMapper.class[SiblingMapper"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="3804"/>
+<attrib name="charEnd" value="3839"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions-jta\/3.8.0\/transactions-jta-3.8.0.jar&lt;com.atomikos.datasource.xa(SiblingMapper.class"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.atomikos.datasource.xa.SiblingMapper"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="16890" lineNumber="500" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:TransactionManagerImp [line: 500] - commit()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions-jta\/3.8.0\/transactions-jta-3.8.0.jar&lt;com.atomikos.icatch.jta(TransactionManagerImp.class[TransactionManagerImp"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="16890"/>
+<attrib name="charEnd" value="16944"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions-jta\/3.8.0\/transactions-jta-3.8.0.jar&lt;com.atomikos.icatch.jta(TransactionManagerImp.class"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.atomikos.icatch.jta.TransactionManagerImp"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/" type="8"/>
+<marker charStart="6785" lineNumber="185" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:XATransactionalResource [line: 185] - removeSiblingMap(String)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions-jta\/3.8.0\/transactions-jta-3.8.0.jar&lt;com.atomikos.datasource.xa(XATransactionalResource.class[XATransactionalResource"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="6785"/>
+<attrib name="charEnd" value="6829"/>
+<attrib name="org.eclipse.jdt.internal.core.JavaModelManager.handleId" value="=bmt.atomikos/\/Users\/mac\/.m2\/repository\/com\/atomikos\/transactions-jta\/3.8.0\/transactions-jta-3.8.0.jar&lt;com.atomikos.datasource.xa(XATransactionalResource.class"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="0"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="com.atomikos.datasource.xa.XATransactionalResource"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+</breakpoints>
