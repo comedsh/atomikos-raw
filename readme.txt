@@ -1,0 +1,1 @@
+使用 ProvaXA.java 进行测试，导入 break points.bkpt，着重测试 MysqlXAConnection 的 start, end, prepare 和 commit 方法
